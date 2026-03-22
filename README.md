@@ -1,7 +1,7 @@
 ### Hi there, I'm Alyssa! 👋
 
-- I’m currently working on learning Python!
-- Reach me: alyssa.voccia@gmail.com | [Twitter](https://www.twitter.com/alyssa_voccia)
+- I’m currently working on building Runnr. A React app that allows someone to track their running workouts and give them insights/analytics into their training.
+- Reach me: alyssa.voccia@gmail.com
 
 #### About Me
 - I am currently a Front End Web Developer
